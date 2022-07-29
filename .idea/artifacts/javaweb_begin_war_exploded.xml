@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javaweb-begin:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaweb_begin_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="javaweb-begin/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javaweb-begin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/资料/程序员成功秘籍/尚硅谷JavaWeb2022版全新教程/代码素材资料/00.sql和jar/01.jar/mysql-connector-java-5.1.45-bin.jar" />
+          <element id="file-copy" path="D:/资料/程序员成功秘籍/尚硅谷JavaWeb2022版全新教程/代码素材资料/00.sql和jar/01.jar/druid-1.1.10.jar" />
+          <element id="file-copy" path="D:/资料/程序员成功秘籍/尚硅谷JavaWeb2022版全新教程/代码素材资料/00.sql和jar/01.jar/gson-2.2.4.jar" />
+          <element id="file-copy" path="D:/资料/程序员成功秘籍/尚硅谷JavaWeb2022版全新教程/代码素材资料/00.sql和jar/01.jar/kaptcha-2.3.2.jar" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
